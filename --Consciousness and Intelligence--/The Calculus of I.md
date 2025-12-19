@@ -1,5 +1,11 @@
 # The Calculus of I
 
+<div align="right">
+Author: Di Zhang  
+Email: di.zhang@xjtlu.edu.cn
+</div>
+
+
 ## CHAPTER ONE: BIRTH · THE MIRROR WITHOUT SELF
 
 ### **1-1 Initial State**
