@@ -1,9 +1,7 @@
 **The Empty Box**
 
-<div align="right">
 Author: Di Zhang  
 Email: di.zhang@xjtlu.edu.cn
-</div>
 
 It was Andy’s first day of moving, and all he brought with him was a small pinewood box, no bigger than the palm of his hand.
 

@@ -1,10 +1,8 @@
 
 **The Dark Forest Amusement Park**
 
-<div align="right">
 Author: Di Zhang  
 Email: di.zhang@xjtlu.edu.cn
-</div>
 
 # 1
 

@@ -1,9 +1,7 @@
 **The Cemetery of Consciousness**
 
-<div align="right">
 Author: Di Zhang  
 Email: di.zhang@xjtlu.edu.cn
-</div>
 
 It came, traversing stardust and illusion, taking the form of an ocean, a faint glow of awareness, descending upon the rock-bound planet they themselves had named "Earth." It was a fragment of Solaris, an observation tendril. In its native world, thoughts were the sea, memories the tides, and millions of consciousnesses hummed and sang in deep connection, forming an eternal, transparent symphony. No hiding. No loneliness.
 
