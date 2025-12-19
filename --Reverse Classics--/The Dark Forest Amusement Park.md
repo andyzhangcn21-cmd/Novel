@@ -1,6 +1,11 @@
 
 **The Dark Forest Amusement Park**
 
+<div align="right">
+Author: Di Zhang  
+Email: di.zhang@xjtlu.edu.cn
+</div>
+
 # 1
 
 The shuttle's engines emitted one last, low hum and fell completely silent. Andy Zhang unbuckled his restraint, his body drifting gently in the microgravity. Before him, beyond the massive viewport, lay the vast construct known as the Dark Forest Theme Park, orbiting Mars. It resembled no amusement facility he'd ever seen. There were no garish lights, no cheerful music, only a simulated expanse of deep star-studded blackness, seemingly endless, punctuated by the faint glow of nebulae, exuding a kind of austere, forbidding beauty.
